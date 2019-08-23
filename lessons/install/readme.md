@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> I have Python 3 installed in my machine. I have used it for a long time and I got used to it. also its the latest version and most compatible with the bootcamp objecives. Not to mention that python 2 will retire soon and stop being supported.
+>> I have Python 3 installed in my machine. I have used it for a long time and I got used to it. also its the latest version and most compatible with the bootcamp objectives. Not to mention that python 2 will retire soon and stop being supported.
 
 ### Q2. Which Python Version Installed   
 
